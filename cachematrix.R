@@ -2,12 +2,12 @@
 ## functions do
 
 ## Write a short comment describing this function
-#This function, makeCacheMatrix creates a special "matix", which is really a list containing a function to
+##This function, makeCacheMatrix creates a special "matix", which is really a list containing a function to
 
-#set the value of the matrix
-#get the value of the matix
-#set the value of the inverse of matrix
-#get the value of the inverse of matrix
+##set the value of the matrix
+##get the value of the matix
+##set the value of the inverse of matrix
+##get the value of the inverse of matrix
 
 makeCacheMatrix <- function(x = matrix()) {
   z <- NULL
